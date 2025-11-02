@@ -1,0 +1,5 @@
+Comparison,Mean_Diff,t_statistic,p_value,Significant,Cohens_d
+Top-3 vs Top-5,-0.0407,-4.626,0.0098,True,-2.402
+Top-5 vs Top-7,0.0023,0.2417,0.8209,False,0.1252
+Top-7 vs All-11,0.0024,0.2795,0.7937,False,0.1129
+Top-3 vs All-11,-0.036,-5.3752,0.0058,True,-1.8632

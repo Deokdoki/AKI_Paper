@@ -1,0 +1,12 @@
+Removed_Feature,Accuracy,Accuracy_Drop,F1_Score,F1_Drop
+volatile acidity,0.6594,0.0219,0.6445,0.0219
+chlorides,0.6594,0.0219,0.643,0.0233
+pH,0.6594,0.0219,0.6438,0.0226
+alcohol,0.6594,0.0219,0.6406,0.0257
+free sulfur dioxide,0.6625,0.0188,0.6471,0.0192
+sulphates,0.6656,0.0156,0.6513,0.0151
+citric acid,0.6688,0.0125,0.6537,0.0126
+density,0.6688,0.0125,0.6542,0.0122
+residual sugar,0.675,0.0062,0.6592,0.0072
+total sulfur dioxide,0.675,0.0062,0.6598,0.0065
+fixed acidity,0.6844,-0.0031,0.6683,-0.002
