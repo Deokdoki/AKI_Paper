@@ -43,7 +43,7 @@ Citation Request:
    or poor wines. Also, we are not sure if all input variables are relevant. So
    it could be interesting to test feature selection methods. 
 
-5. Number of Instances: red wine - 1599; white wine - 4898. 
+5. Number of Instances: red wine - 1599, white wine - 4898. 
 
 6. Number of Attributes: 11 + output attribute
   

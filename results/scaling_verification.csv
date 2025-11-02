@@ -1,0 +1,12 @@
+Feature,Train_Mean,Train_Std,Test_Mean,Test_Std
+fixed acidity,-0.0,1.0,0.039,1.13
+volatile acidity,0.0,1.0,-0.007,1.039
+citric acid,0.0,1.0,-0.074,0.997
+residual sugar,-0.0,1.0,-0.017,1.121
+chlorides,0.0,1.0,-0.144,0.497
+free sulfur dioxide,0.0,1.0,-0.121,0.99
+total sulfur dioxide,-0.0,1.0,-0.122,0.928
+density,-0.0,1.0,0.031,1.093
+pH,0.0,1.0,0.083,1.088
+sulphates,-0.0,1.0,-0.155,0.707
+alcohol,-0.0,1.0,-0.007,1.002
