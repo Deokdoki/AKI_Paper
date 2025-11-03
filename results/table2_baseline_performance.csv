@@ -1,2 +1,0 @@
-Model,Features_Used,Num_Features,Train_Samples,Test_Samples,Accuracy,Precision,Recall,F1_Score,Cohen_Kappa,CV_Mean,CV_Std,Training_Time_sec
-Random Forest,All 11 features,11,1279,320,0.68125,0.6561369034467521,0.68125,0.666331757082135,0.4849053923966733,0.6762928921568627,0.01661734486338824,0.13405990600585938
