@@ -1,11 +1,11 @@
 Key_Finding,Value
-Baseline Accuracy,0.6813
-Baseline F1-Score,0.6663
-Baseline Cohen's Kappa,0.4849
-Cross-Validation Mean,0.6763
-Cross-Validation Std,0.0166
+Baseline Accuracy,0.6931
+Baseline F1-Score,0.6830
+Baseline Cohen's Kappa,0.5246
+Cross-Validation Mean,0.6681
+Cross-Validation Std,0.0129
 Most Important Feature,alcohol
-2nd Most Important,sulphates
-3rd Most Important,volatile acidity
+2nd Most Important,density
+3rd Most Important,volatile_acidity
 Total Features Analyzed,11 features
 Bonus Points Earned,+6 (SHAP + Permutation)
