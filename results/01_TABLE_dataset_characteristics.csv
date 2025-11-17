@@ -1,7 +1,7 @@
 Metric,Value
-Total Samples,6497
-Training Samples,5197
-Test Samples,1300
+Total Samples,3961
+Training Samples,3168
+Test Samples,793
 Number of Features,11
 Target Variable,Wine Quality Score
 Target Range,3-8

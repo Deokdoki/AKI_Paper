@@ -2,11 +2,11 @@ Rank,Feature,Priority
 1,alcohol,TOP 3 - CRITICAL
 2,density,TOP 3 - CRITICAL
 3,volatile_acidity,TOP 3 - CRITICAL
-4,sulphates,IMPORTANT
-5,chlorides,IMPORTANT
-6,total_sulfur_dioxide,IMPORTANT
-7,residual_sugar,IMPORTANT
-8,free_sulfur_dioxide,LESS CRITICAL
-9,citric_acid,LESS CRITICAL
-10,pH,LESS CRITICAL
+4,residual_sugar,IMPORTANT
+5,total_sulfur_dioxide,IMPORTANT
+6,free_sulfur_dioxide,IMPORTANT
+7,sulphates,IMPORTANT
+8,chlorides,LESS CRITICAL
+9,pH,LESS CRITICAL
+10,citric_acid,LESS CRITICAL
 11,fixed_acidity,LESS CRITICAL

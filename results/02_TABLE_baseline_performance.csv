@@ -1,2 +1,2 @@
 Model,Num_Features,Accuracy,Precision,Recall,F1_Score,Cohen_Kappa,CV_Mean
-Random Forest,11,0.6931,0.6969,0.6931,0.683,0.5246,0.6681
+Random Forest,11,0.5385,0.5247,0.5385,0.5274,0.3082,0.5647

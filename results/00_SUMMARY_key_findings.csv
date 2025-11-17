@@ -1,9 +1,9 @@
 Key_Finding,Value
-Baseline Accuracy,0.6931
-Baseline F1-Score,0.6830
-Baseline Cohen's Kappa,0.5246
-Cross-Validation Mean,0.6681
-Cross-Validation Std,0.0129
+Baseline Accuracy,0.5385
+Baseline F1-Score,0.5274
+Baseline Cohen's Kappa,0.3082
+Cross-Validation Mean,0.5647
+Cross-Validation Std,0.0215
 Most Important Feature,alcohol
 2nd Most Important,density
 3rd Most Important,volatile_acidity
